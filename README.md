@@ -1,6 +1,6 @@
 # RPA Developer Advanced Certification - Exam #1
 
-Exercise
+
 In this exercise, you will create a UiPath automation that performs the steps below.
 To achieve this, you will use the REFrameWork as the starting template and follow the UiPath development best practices.
 
@@ -38,8 +38,5 @@ Constraints to follow in the development, using the REFrameWork:
 7. Populate KillAllProcesses.xaml from the Framework folder with killing the process used.
 8. Populate the Process.xaml file with the following actions: Navigation, Searching for Invoice Number, Scraping, Checking if the values match, Handling the Business Rule Exception.
 
-Important Note: Don't use external file references outside of the project folder (including Orchestrator Assets). Place all the used files within the project folder, zip that folder and upload it to the UiPath Certification Platform.
-
-Zip ALL the used workflow files AND the output Excel file. Then upload the .zip file to the UiPath Certification Platform.
 
 Good luck!
